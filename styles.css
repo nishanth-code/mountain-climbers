@@ -68,7 +68,7 @@ section{
     justify-content: center;
     text-align: center;
     background-image: url('./main-bg.jpg');
-    color: #fff;
+    color:black;
     z-index: -1;
 }
 .main .background-image{
