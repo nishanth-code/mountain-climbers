@@ -67,7 +67,7 @@ section{
     min-height: 100vh;
     justify-content: center;
     text-align: center;
-    background-image: url('main.jpg');
+    background-image: url('main-bg.jpg');
     color: #fff;
     z-index: -1;
 }
